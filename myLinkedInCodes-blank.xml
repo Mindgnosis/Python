@@ -1,0 +1,6 @@
+<LinkedInAuthentication>
+	<consumerKey></consumerKey>
+	<consumerSecret></consumerSecret>
+	<oauthToken></oauthToken>
+	<oauthTokenSecret></oauthTokenSecret>
+</LinkedInAuthentication>
